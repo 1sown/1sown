@@ -15,7 +15,11 @@ Je suis Sown, passionné par la cybersécurité et spécialisé dans le dévelop
 </p> 
 
 ![Autre Statistiques](https://github-readme-stats.vercel.app/api?username=sown-discord&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sown-discord&layout=compact)](https://github.com/sown-discord)
+
+
 ### Retrouvez-moi sur Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/233657223190937601)](https://discord.com/users/1171205236799582289)
